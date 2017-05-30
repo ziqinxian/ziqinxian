@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+##訾钦闲
 
-You can use the [editor on GitHub](https://github.com/ziqinxian/ziqinxian/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+女 | 1993年4月生 |  户口：安徽-宿州 |  现居住于:北京
+3年工作经验
+18401263275
+E-mail：18401263275@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##求职意向
 
-### Markdown
+工作性质：全职
+期望职业：移动互联网开发、WEB前端开发
+期望行业：IT服务(系统/数据/维护)、互联网/电子商务
+工作地区：北京
+期望月薪：面议
+目前状况：我目前处于离职状态，可立即上岗
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##自我评价
+##熟练掌握web前端技术如：HTML5，CSS3，能够运用JavaScript和jquery并配合amd和cmd等模块化实现页面的基本框架及常用动态效果，对node以及一些前端的框架也有一定的了解如：angular、vue、微信小程序等，掌握gulp前端构建工具和webpack包管理工具。
+##工作经历
 
-```markdown
-Syntax highlighted code block
+2016/03 -- 至今
 
-# Header 1
-## Header 2
-### Header 3
+##中国医疗传媒集团
+工作描述：在任职期间我主要参与Web应用的开发，包括pc和移动端，负责网页制作，样式的实现，和一些动态效果，解决浏览器兼容bug。运用angularjs搭建整个框架，制作单页应用，和后台程序员进行沟通，使用ajax进行数据处理、渲染。
 
-- Bulleted
-- List
+2014/07 -- 2016/03
 
-1. Numbered
-2. List
+##北京多助科技有限公司
+##工作描述：在任职期间我参与公司web应用开发，负责公司Web站点的web前端开发、移动端html5开发、利用jQuery等完成项目的搭建；与产品经理、设计师、后端工程师紧密工作在一起，负责公司各产品易用性改进、界面技术优化和网站性能优化
 
-**Bold** and _Italic_ and `Code` text
+##项目经验
 
-[Link](url) and ![Image](src)
-```
+##好医工
+##责任描述：我在此项目中主要负责运用html+css进行页面搭建，通过angular+webpack 来构建整个项目的结构和规范，ui-router 实现了页面的跳转，Controller控制器之间的通信完成参数的传递，数据获取，使用内置服务和 express 来进行项目数据的切换。同时协助后台程序员完成功能镶嵌和调试，优化代码并解决兼容问题
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##项目简介：好医工是一款只为医工服务的工具型杂志，服务于医工群体的工作、学习、社交;其主要功能包括了行业数据、资料库、我的设备、维修互助、学术期刊、微课堂、维修宝、学会/分社、行业资讯等;构建一个医工互利互助的封闭式交流圈，在这里可以了解新鲜行业资讯、权威行业数据，可以管理设备、寻求帮助或者一展身手，也可以学习成长、共同交流;我们致力于为医工服务，打造卓越的医工圈。
 
-### Jekyll Themes
+##中国医疗传媒集团官网
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ziqinxian/ziqinxian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##责任描述：在该项目中我主要负责用gulp来进行项目搭建，应用到的技术主要有 js 和 jquery，利用 ajax解决跨域问题对后台的数据进行请求，实现页面的渲染，并解决浏览器间的兼容问题 ，并在后期对项目进行维护和更新。 
 
-### Support or Contact
+##项目介绍：中国医疗传媒集团，是围绕医学工程专业，横跨网络传媒、医疗电子商务、医疗行业数据研究、医学继续教育、医疗设备销售/维修/装机/培训、海外进修留学、展会/会务、海外医学学术会议等多个领域的传媒集团。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##微语言
+##责任描述：在此项目中主要用js，jQuery等技术进行移动端效果的编写与制作，其中页面一些的动态效果使用iScroll.js+animate.css相关技术配合css3 的@keyframes属性实现；引用jQuery.lazyloadJs,实现图片的延迟加载，提高了页面的加载速度，提高了用户的体验。
+
+##项目简介：微语言致力于为公立校和培训机构搭建专属品牌的在线外教口语平台，微语言提供在线外教口语课程整体服务的优质品牌，使命是“让中国孩子拥有全球外教，享受世界一流的教育”。
+##安虫商城
+##责任描述：在项目中我主要负责用组件，jQuery 插件，封装可复用的功能模块，以全站共用，同时运用Zepto使用少量的代码，对更多的页面实现动态效果，与后端人员商定好数据接口，使用AJAX技术与后台人员进行交互,并解决浏览器兼容问题，并配合后台开发人员进行开发
+
+##项目简介：该项目是基于三年市场调研，掌握了产品销售、渠道打造、工程施工、售后维护等各环节，而精准的打造出一个产品精专，价格公平，服务快捷的多功能电子商务平台。
+##爱拼宝
+##责任描述：项目中我主要负责对网页进行了无兼容的结构布局，适应各大主流浏览器，并利用 js 和 jquery 来实现相应的功能和效果，在登陆页面用本地存储localStorage会将第一次请求的数据直接存储到本地,可以避免数据在浏览器和服务器间不必要地来回传递。与前后台有良好的沟通，不断优化页面代码，提升页面速度，及时调整网站页面。
+##项目简介：该项目是致力于提供优质服务，帮助更多的用户随时随地轻松便捷的实现资产自由配置；分散风险，并获得更高的财富收益。 
+
+##教育经历
+
+2010/09 -- 2014/07   
+##重庆科技大学   计算机科学与技术   本科 
