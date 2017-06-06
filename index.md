@@ -4,7 +4,7 @@
 > ###### 电话：18401263275　　E-mail：18401263275@163.com　　期望月薪：面议  
 
 ### 自我评价
-<font color=#0099ff size=7 face="黑体">熟练掌握web前端技术如：HTML5，CSS3，能够运用JavaScript和jquery并配合amd和cmd等模块化实现页面的基本框架及常用动态效果，对node以及一些前端的框架也有一定的了解如：angular、vue、微信小程序等，掌握gulp前端构建工具和webpack包管理工具。</font>
+<font color=#0099ff size=1 face="黑体">熟练掌握web前端技术如：HTML5，CSS3，能够运用JavaScript和jquery并配合amd和cmd等模块化实现页面的基本框架及常用动态效果，对node以及一些前端的框架也有一定的了解如：angular、vue、微信小程序等，掌握gulp前端构建工具和webpack包管理工具。</font>
 
 ### 工作经历
 
